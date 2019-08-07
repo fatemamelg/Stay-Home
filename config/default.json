@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://stayhome1:stayhome1@ds259377.mlab.com:59377/stayhome",
+    "jwtSecret": "mysecrettoken"
+}
